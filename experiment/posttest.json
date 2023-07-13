@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) Relationship between Reynolds number (Re) and flow velocity (V) is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Re∝V",
+        "b": "Re∝1/V",
+        "c": "Re∝2V",
+        "d": "Re∝1/2V"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2) Blasius equation is the following:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "f= 0.316 ×〖Re〗<sup>(-0.25)</sup>",
+        "b": "f= 0.316 ×〖Re〗<sup>(0.25)</sup>",
+        "c": "f= 0.316 ×〖Re〗<sup>(-2.5)</sup>",
+        "d": "f= 0.316 ×〖Re〗<sup>(2.5)</sup>"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,58 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) Blasius equation is valid only _________ flow of pressure head, velocity head and datum head.",
+      "answers": {
+        "a": "Laminar flow",
+        "b": "Turbulent flow",
+        "c": "Transitional flow",
+        "d": "Hypersonic flow"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) Flow is Laminar for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 2300",
+        "b": "Re < 2300",
+        "c": "Re < 5000",
+        "d": "Re > 5000"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) The Flow is Turbulent for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 4000",
+        "b": "Re < 4000",
+        "c": "Re < 2000",
+        "d": "Re > 2000"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

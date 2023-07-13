@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) Friction Factor _____________when the flow becomes fully turbulent.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Becomes zero",
+        "b": "Attains maximum value",
+        "c": "Attains minimum value",
+        "d": "Attains negative value"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) If flow velocity is doubled, then frictional headloss becomes:",
+      "answers": {
+        "a": "Four times",
+        "b": "half",
+        "c": "twice",
+        "d": "Remains constant"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3) For Laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(f=Re)⁄64",
+        "b": "f=Re",
+        "c": "f=64Re",
+        "d": "f=16Re"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) Darcy friction factor for Laminar flow is based on:",
+      "answers": {
+        "a": "Bernoulli’s Law",
+        "b": "Poiseuille’s Law",
+        "c": "Euler’s Law",
+        "d": "Newton’s Law"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) Moody’s diagram is used to calculate _______________ in pipes:",
+      "answers": {
+        "a": "Velocity",
+        "b": "Pressure",
+        "c": "Friction factor",
+        "d": "Temperature"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
