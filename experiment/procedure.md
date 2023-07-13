@@ -8,7 +8,8 @@ The following steps are to be followed to calculate the friction coefficient of 
 5. By regulating the valve control the flow rate and select the corresponding pressure tapings. Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes.<br> 
 7. Note down the difference of head “h” from the manometer scale, and time required for the rise of 10 cm (i.e. 0.01m) water in the collecting tank by using stop watch.<br>
 8. The actual loss of head is determined from the Manometer readings. The frictional loss of head in pipes is given by the Darcy's formula. The friction coefficient indicates ' f '<br>
-9. Repeat the steps 4 to 8 for different sets of readings by regulating the discharge valve<br>
+9. Repeat the steps 4 to 8 for different sets of readings by regulating the discharge valve<br><br>
+
 <b>Formulae –</b><br>
 1.	Calculate Actual Discharge (Q<sub>act</sub>)
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
