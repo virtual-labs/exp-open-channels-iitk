@@ -5,17 +5,17 @@ Fluid flow in circular and noncircular pipes is commonly encountered in practice
 <image src="images/image2.PNG"><br>
 Fig. 3, shows a schematic of test rig or bench for determination of frictional losses in a pipe, who’s each part is explained as follow: <br>                             					
 <b>Flow Meter</b><br>
-The test bench consists of flow meter for the experiments. The meter shows the amount of water flowing through the pipe<br>
-<b>Control Valve</b>
-A Control valve is provided through which the flow rate of the water flowing through the pipes is controlled. Through this valve, one can make flow laminar or turbulent.<br> 
+The test bench consists of flow meter for the experiments. The meter shows the amount of water flowing through the pipe<br><br>
+<b>Control Valve</b><br>
+A Control valve is provided through which the flow rate of the water flowing through the pipes is controlled. Through this valve, one can make flow laminar or turbulent.<br> <br>
 <b>Pipe System</b><br>
-Piping System of size 0.0235 m diameter with length of L = 1.817 m. <br>
+Piping System of size 0.0235 m diameter with length of L = 1.817 m. <br><br>
 <b>Measuring Tank</b><br>
-Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank<br>
+Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank<br><br>
 <b>Differential Manometer</b><br> 
-Two pressure taping are provided one on either end of the pipe length L = 1m. The difference in the reading of the pressure tapings will provide the pressure drop across the length of the pipe<br>
+Two pressure taping are provided one on either end of the pipe length L = 1m. The difference in the reading of the pressure tapings will provide the pressure drop across the length of the pipe<br><br>
 <b>Reservoir</b><br>  
-Sump is provided to store sufficient waters for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br>
+Sump is provided to store sufficient waters for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br><br>
 <b>Theory </b><br>
 The flow of water, oil, air and gas in pipes is of great importance to engineers. In particular, the design of distribution systems depends on the relationship between discharge, 𝑄, diameter, 𝐷, and available head, ℎ. When a fluid flows through a pipe, there is a drop-in pressure in the fluid, since energy is required to overcome the viscous effects or frictional forces exerted by the inner surface of walls of the pipe on the moving fluid. The losses due to friction are known to as major losses (hf) while losses through fittings, etc., are called minor losses. <br>
 <image src="images/image3.PNG"><br>
