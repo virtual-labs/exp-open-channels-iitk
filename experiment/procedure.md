@@ -1,4 +1,4 @@
-<b>Procedure</b><br> 
+<b><u>Procedure</u></b><br> 
 The following steps are to be followed to calculate the friction coefficient of pipes:<br>
 1. Check whether all the joints and the sump are not leaking <br>
 2.Close all the cocks, pressure feed pipes and manometer to prevent damage and overloading of the manometer. Check the gauge glass and meter scale assembly of the measuring tank and see that it is fixed water height and vertically. <br>
@@ -10,8 +10,8 @@ The following steps are to be followed to calculate the friction coefficient of 
 8. The actual loss of head is determined from the Manometer readings. The frictional loss of head in pipes is given by the Darcy's formula. The friction coefficient indicates ' f '<br>
 9. Repeat the steps 4 to 8 for different sets of readings by regulating the discharge valve<br><br>
 
-<b>Formulae –</b><br>
-1.	Calculate Actual Discharge (Q<sub>act</sub>)
+<b><u>Formulae –</u></b><br>
+1.	Calculate Actual Discharge (Q<sub>act</sub>)<br>
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
 <image src="images/image11.PNG"><br>
