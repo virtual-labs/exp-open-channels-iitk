@@ -29,6 +29,6 @@ H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub
 or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6<br>
 s<sub>m</sub>  = Specific gravity of mercury =13600<br> 
 s<sub>w</sub> = specific gravity of water = 1000<br>
-g = Acceleration due to gravity (9.81 m<sup>2</sup>⁄s)<br>
+g = Acceleration due to gravity (9.81 m<sup>2</sup>⁄s)<br><br>
 <b>Observations –</b><br>
 <image src="images/image13.PNG">
