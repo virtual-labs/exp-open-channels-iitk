@@ -85,6 +85,23 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6) Assumptions of Poiseuille’s Law:",
+      "answers": {
+        "a": "Incompressible fluid",
+        "b": "Newtonian fluid",
+        "c": "Laminar flow",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "D",
+      "difficulty": "beginner"
     }
   ]
 }
