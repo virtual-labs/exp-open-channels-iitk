@@ -131,6 +131,46 @@ if(t7.querySelector("input").value >1.33
     }
 }
          
+     
+function exportToExcel() {
+  var wb = XLSX.utils.book_new();
 
+  /* Observation Table */
+  var observationTable = document.querySelector('.observationTable');
+  var observationSheetData = [];
+  var observationRows = observationTable.querySelectorAll('tr');
+  observationRows.forEach(function (row) {
+      var rowData = [];
+      row.querySelectorAll('th, td').forEach(function (cell) {
+          if (cell.querySelector('input')) {
+              rowData.push(cell.querySelector('input').value);
+          } else {
+              rowData.push(cell.textContent);
+          }
+      });
+      observationSheetData.push(rowData);
+  });
+  var observationSheet = XLSX.utils.aoa_to_sheet(observationSheetData);
+  XLSX.utils.book_append_sheet(wb, observationSheet, "Observation Table");
 
-         
+  /* Calculation Table */
+  var calculationTable = document.querySelector('.calculationTable');
+  var calculationSheetData = [];
+  var calculationRows = calculationTable.querySelectorAll('tr');
+  calculationRows.forEach(function (row) {
+      var rowData = [];
+      row.querySelectorAll('th, td').forEach(function (cell) {
+          if (cell.querySelector('input')) {
+              rowData.push(cell.querySelector('input').value);
+          } else {
+              rowData.push(cell.textContent);
+          }
+      });
+      calculationSheetData.push(rowData);
+  });
+  var calculationSheet = XLSX.utils.aoa_to_sheet(calculationSheetData);
+  XLSX.utils.book_append_sheet(wb, calculationSheet, "Calculation Table");
+
+  /* Save workbook to file */
+  XLSX.writeFile(wb, "table_data.xlsx");
+}
