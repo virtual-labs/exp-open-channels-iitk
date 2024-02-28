@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 181.68 145.85">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #808285;
+      }
+
+      .cls-3 {
+        fill: #1a2d58;
+      }
+
+      .cls-4 {
+        fill: #d1d3d4;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <image class="cls-1" width="179" height="509" transform="translate(37.59 41.87) scale(.09)" xlink:href="../../Pelton Wheel Exp/BE1222C.png"/>
+      <image class="cls-1" width="785" height="538" transform="translate(52.71 21.55) scale(.16)" xlink:href="../../Pelton Wheel Exp/BE1222F.png"/>
+      <image class="cls-1" width="506" height="134" transform="translate(128.99 47.56) scale(.06)" xlink:href="../../Pelton Wheel Exp/BE12223.png"/>
+      <image class="cls-1" width="506" height="127" transform="translate(128.94 61.75) scale(.06)" xlink:href="../../Pelton Wheel Exp/BE12227.png"/>
+      <image class="cls-1" width="506" height="133" transform="translate(128.99 75.6) scale(.06)" xlink:href="../../Pelton Wheel Exp/BE12221.png"/>
+      <image class="cls-1" width="506" height="126" transform="translate(128.94 89.79) scale(.06)" xlink:href="../../Pelton Wheel Exp/BE12222.png"/>
+      <image class="cls-1" width="507" height="130" transform="translate(129.04 33.7) scale(.06)" xlink:href="../../Pelton Wheel Exp/BE12220.png"/>
+      <image class="cls-1" width="571" height="44" transform="translate(70.03 138.58) scale(.17)" xlink:href="../../Pelton Wheel Exp/B789EFDE.png"/>
+      <path class="cls-3" d="m164.3,138.65h-94.2c4.7-.3,22.6-2.4,32.1-20.3,1.2-2.3,2.3-5,3.3-8.3h24c.8,2.9,1.6,5.4,2.7,7.6,8.6,18.5,27.7,20.6,32.1,21Z"/>
+      <image class="cls-1" width="424" height="504" transform="translate(15.28 12.41) scale(.04)" xlink:href="../../Pelton Wheel Exp/B789EFDA.png"/>
+      <image class="cls-1" width="510" height="264" transform="translate(6.48) scale(.06)" xlink:href="../../Pelton Wheel Exp/B789EFC5.png"/>
+      <image class="cls-1" width="424" height="497" transform="translate(15.22 99.19) scale(.04)" xlink:href="../../Pelton Wheel Exp/B789EFC6.png"/>
+      <image class="cls-1" width="510" height="267" transform="translate(6.52 112.46) scale(.06)" xlink:href="../../Pelton Wheel Exp/B789EFC4.png"/>
+      <rect class="cls-4" x="13.3" y="27.25" width="19.2" height="76.3"/>
+      <polygon class="cls-3" points="7.3 89.55 0 85.65 0 45.85 7.3 41.95 7.3 89.55"/>
+      <path class="cls-2" d="m32.5,103.55h0V27.25h0c3.6,0,6.4,2.9,6.4,6.4v63.5c.1,3.5-2.8,6.4-6.4,6.4Z"/>
+      <path class="cls-2" d="m13.3,103.55h0c-3.6,0-6.4-2.9-6.4-6.4v-63.5c0-3.6,2.9-6.4,6.4-6.4h0v76.3Z"/>
+    </g>
+  </g>
+</svg>
