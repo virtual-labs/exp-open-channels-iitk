@@ -92,15 +92,15 @@
         "a": "Incompressible fluid",
         "b": "Newtonian fluid",
         "c": "Laminar flow",
-        "d": "All of the above"
+        "d": "All of these"
       },
       "explanations": {
-        "a": "The correct answer is all of the above. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
-        "b": "The correct answer is all of the above. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
-        "c": "The correct answer is all of the above. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
-        "d": "The correct answer is all of the above. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations."
+        "a": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
+        "b": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
+        "c": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
+        "d": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations."
       },
-      "correctAnswer": "D",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
