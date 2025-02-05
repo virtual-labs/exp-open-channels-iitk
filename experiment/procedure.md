@@ -23,7 +23,7 @@ t = time taken for rise of water level to height ‘R’ in seconds<br>
 D = pipe diameter <br>
 A = Cross sectional area of the pipe =  (πD<sup>2</sup>)/4<br>
 3. Calculate the coefficient of friction for the given pipe by<br>
-<image src="images/imagep3.PNG"><br>
+<image src="images/imagea1.png"><br>
 Where, <br>
 H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub>-1)<br>
 or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6<br>
