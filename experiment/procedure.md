@@ -1,4 +1,4 @@
-<b><u>Procedure</u></b><br> 
+## Procedure<br> 
 The following steps are to be followed to calculate the friction coefficient of pipes:<br>
 1. Check whether all the joints and the sump are not leaking <br>
 2.Close all the cocks, pressure feed pipes and manometer to prevent damage and overloading of the manometer. Check the gauge glass and meter scale assembly of the measuring tank and see that it is fixed water height and vertically. <br>
@@ -10,7 +10,7 @@ The following steps are to be followed to calculate the friction coefficient of 
 8. The actual loss of head is determined from the Manometer readings. The frictional loss of head in pipes is given by the Darcy's formula. The friction coefficient indicates ' f '<br>
 9. Repeat the steps 4 to 8 for different sets of readings by regulating the discharge valve<br><br>
 
-<b><u>Formulae –</u></b><br>
+## Formulae –<br>
 1.	Calculate Actual Discharge (Q<sub>act</sub>)<br>
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
@@ -27,8 +27,8 @@ A = Cross sectional area of the pipe =  (πD<sup>2</sup>)/4<br>
 Where, <br>
 H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub>-1)<br>
 or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6<br>
-s<sub>m</sub>  = Specific gravity of mercury =13600<br> 
-s<sub>w</sub> = specific gravity of water = 1000<br>
+s<sub>m</sub>  = Specific gravity of mercury =13.6<br> 
+s<sub>w</sub> = specific gravity of water = 1<br>
 g = Acceleration due to gravity (9.81 m<sup>2</sup>⁄s)<br><br>
-<b>Observations –</b><br>
+## Observations –<br>
 <image src="images/image13.PNG">

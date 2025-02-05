@@ -1,22 +1,22 @@
-### <u>Introduction</u><br>
+<b>Introduction</b><br>
 <image src="images/Image1.PNG"><br>
 Fluid flow in circular and noncircular pipes is commonly encountered in practice. The hot and cold water that we use in our homes is pumped through pipes. Water in a city is distributed by extensive piping networks. Oil and natural gas are transported hundreds of miles by large pipelines. Fig. 1, the inflow, the velocity profile is often uniform but a thin boundary layer develops on the pipe wall because of friction as the fluid moves along the length of the pipe. Fully developed flow occurs when the viscous effects due to the shear stress between the fluid particles and pipe wall create a fully developed velocity profile.  In order for this to occur the fluid must travel through a length of a straight pipe. In addition, the velocity of the fluid for a fully developed flow will be at its fastest at the center line of the pipe. On the other hand, the velocity of the fluid at the walls of the pipe will theoretically be zero. Beyond this distance the velocity profile becomes fully-developed (i.e., doesn’t change any further with downstream distance).<br><br>
-<b><u>Components of Experimental setup</u></b><br><br>
+<b>Components of Experimental setup</b><br><br>
 <image src="images/image2.PNG"><br>
 Fig. 3, shows a schematic of test rig or bench for determination of frictional losses in a pipe, who’s each part is explained as follow: <br>                             					
 <b><u>Flow Meter</u></b><br>
 The test bench consists of flow meter for the experiments. The meter shows the amount of water flowing through the pipe<br><br>
-<b><u>Control Valve</u></b><br>
+<b>Control Valve</b><br>
 A Control valve is provided through which the flow rate of the water flowing through the pipes is controlled. Through this valve, one can make flow laminar or turbulent.<br> <br>
-<b><u>Pipe System</u></b><br>
+<b>Pipe System</b><br>
 Piping System of size 0.0235 m diameter with length of L = 1.817 m. <br><br>
 <b><u>Measuring Tank</u></b><br>
 Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank<br><br>
 <b><u>Differential Manometer</u></b><br> 
 Two pressure taping are provided one on either end of the pipe length L = 1m. The difference in the reading of the pressure tapings will provide the pressure drop across the length of the pipe<br><br>
-<b><u>Reservoir</u></b><br>  
+<b>Reservoir</b><br>  
 Sump is provided to store sufficient waters for independent circulation through the unit for experimentation and arranged within the floor space of the main unit<br><br>
-<b><u>Theory </u></b><br>
+<b>Theory </b><br>
 The flow of water, oil, air and gas in pipes is of great importance to engineers. In particular, the design of distribution systems depends on the relationship between discharge, 𝑄, diameter, 𝐷, and available head, ℎ. When a fluid flows through a pipe, there is a drop-in pressure in the fluid, since energy is required to overcome the viscous effects or frictional forces exerted by the inner surface of walls of the pipe on the moving fluid. The losses due to friction are known to as major losses (hf) while losses through fittings, etc., are called minor losses. <br>
 <image src="images/image3.PNG"><br><br>
 Flow in a pipe is divided mainly into two flow regimes i.e. Laminar and Turbulent flow. The regimes are estimated on the bases of a dimensionless parameter “Reynolds number”. Reynolds number was named after Osborne Reynolds who demonstrated the occurrence of two regimes of flow in a pipe in the year 1883.  Reynolds number is defined as:<br>
@@ -28,6 +28,7 @@ Theoretically it would be nice to have exact values of Reynolds number to define
 <image src="images/image6.PNG"><br>
 Furthermore, for a circular pipe with a fully developed flow, the head loss due to friction may be calculated from the formula known as Darcy-Weisbach pipe friction equation: f is known as the Darcy-Weisbach pipe friction factor<br>
 <image src="images/imagea1.PNG"><br>
+=======
 Where, <br>
 f = is known as the Darcy-Weisbach pipe<br>
 L = Length of the pipe between two tapings in m <br>
