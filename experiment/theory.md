@@ -27,8 +27,7 @@ The Re at which the flow becomes turbulent is called the critical Reynolds numbe
 Theoretically it would be nice to have exact values of Reynolds number to define flow regimes for laminar, transitional and turbulent flows but it’s not the case in reality. It is observed that the transition of flow from laminar to turbulent flow depends on many factors i.e. the degree of disturbance of the flow by surface roughness pipe vibrations and fluctuations in the flow. Under most practical conditions, the flow regimes are defined as:<br>
 <image src="images/image6.PNG"><br>
 Furthermore, for a circular pipe with a fully developed flow, the head loss due to friction may be calculated from the formula known as Darcy-Weisbach pipe friction equation: f is known as the Darcy-Weisbach pipe friction factor<br>
-<image src="images/imagea1.PNG"><br>
-=======
+<image src="images/imagea1.png"><br>
 Where, <br>
 f = is known as the Darcy-Weisbach pipe<br>
 L = Length of the pipe between two tapings in m <br>
