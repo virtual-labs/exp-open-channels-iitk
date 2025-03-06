@@ -368,11 +368,11 @@
 
 <g id="svg-container-1">
 	<g class="arrow-1"  opacity="0">
-		<rect x="608.9" y="455.6" transform="matrix(0.4766 -0.8791 0.8791 0.4766 -76.0818 790.0346)" width="33.1" height="6.7"/>
+		<rect x="608.9" y="455.6" transform="matrix(0.4766 -0.8791 0.8791 0.4766 -76.0818 790.0346)" width="41.5" height="8.5"/>
 		<polyline points="628.6,479.5 609.5,488.4 606.5,467.5 	"/>
 	</g>
 	<g class="arrow-1"  opacity="0">
-		<rect x="962.2" y="138.6" transform="matrix(0.4829 -0.8757 0.8757 0.4829 381.8674 930.501)" width="33.1" height="6.7"/>
+		<rect x="962.2" y="138.6" transform="matrix(0.4829 -0.8757 0.8757 0.4829 381.8674 930.501)" width="41.5" height="8.5"/>
 		<polyline points="981.8,162.5 962.6,171.3 959.8,150.4 	"/>
 	</g>
 	<g class="arrow-1"  opacity="0">
@@ -459,7 +459,7 @@
 							<button class="item2" type="button"  style="width:300px; height:50px; border: solid #080808 3px;" id="enable" onclick="power()"> POWER ON </button>
 
 							
-								<div class="item3" style="font-size:20px; width:500px; height:50px; font-weight: bold; display: flex; flex-direction: row; gap: 20px; align-content: center; justify-content: center; align-self: auto; ">
+								<div id="valve-positioning-container" class="item3" style="font-size:20px; width:500px; height:50px; font-weight: bold; display: flex; flex-direction: row; gap: 20px; align-content: center; justify-content: center; align-self: auto; ">
 								Valve Positioning
 								<div style="display: flex; flex-direction: column">
 									
@@ -702,6 +702,7 @@
 
 						</div>
 					</div> 
+                    <img id="highlight-arrow" src="arrow-down.png" alt="arrow" style="position: absolute; width: 50px; display: none;"/>
 
 				<!-- Add JS at the bottom of HTML file --> 
 				<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
