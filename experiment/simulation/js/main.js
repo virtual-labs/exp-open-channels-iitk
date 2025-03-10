@@ -35,6 +35,7 @@ let stopWaterFlow5 = false;
 let stopWaterFlow6 = false;
 var svgContainer1 = document.getElementById("svg-container-1");
 var svgElements1 = document.querySelectorAll(".arrow-1");
+var currentHighlightedElement = enableButton;
 
 function power() {
   if (count == 0) {
@@ -513,9 +514,14 @@ function highlightArrowFn(element) {
     }px`;
     highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
     highlightArrow.style.display = "block";
+    currentHighlightedElement = element;
   }
 }
 
 document.addEventListener("DOMContentLoaded", () =>
   highlightArrowFn(enableButton)
 );
+
+window.addEventListener('resize', function() {
+  highlightArrowFn(currentHighlightedElement); // Recalculate position of the arrow when the window resizes
+});
