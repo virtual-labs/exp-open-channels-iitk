@@ -3,7 +3,7 @@
 Fluid flow in circular and noncircular pipes is commonly encountered in practice. The hot and cold water that we use in our homes is pumped through pipes. Water in a city is distributed by extensive piping networks. Oil and natural gas are transported hundreds of miles by large pipelines. Fig. 1, the inflow, the velocity profile is often uniform but a thin boundary layer develops on the pipe wall because of friction as the fluid moves along the length of the pipe. Fully developed flow occurs when the viscous effects due to the shear stress between the fluid particles and pipe wall create a fully developed velocity profile.  In order for this to occur the fluid must travel through a length of a straight pipe. In addition, the velocity of the fluid for a fully developed flow will be at its fastest at the center line of the pipe. On the other hand, the velocity of the fluid at the walls of the pipe will theoretically be zero. Beyond this distance the velocity profile becomes fully-developed (i.e., doesn’t change any further with downstream distance).<br><br>
 <b>Components of Experimental setup</b><br><br>
 <image src="images/image2.PNG"><br>
-Fig. 3, shows a schematic of test rig or bench for determination of frictional losses in a pipe, who’s each part is explained as follow: <br>                             					
+Fig. 2, shows a schematic of test rig or bench for determination of frictional losses in a pipe, who’s each part is explained as follow: <br>                             					
 <b><u>Flow Meter</u></b><br>
 The test bench consists of flow meter for the experiments. The meter shows the amount of water flowing through the pipe<br><br>
 <b>Control Valve</b><br>
