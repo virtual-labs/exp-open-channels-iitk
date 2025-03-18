@@ -21,10 +21,10 @@
     {
       "question": "2) Blasius equation is the following:",
       "answers": {
-        "a": "f= 0.316 ×〖Re〗<sup>(-0.25)</sup>",
-        "b": "f= 0.316 ×〖Re〗<sup>(0.25)</sup>",
-        "c": "f= 0.316 ×〖Re〗<sup>(-2.5)</sup>",
-        "d": "f= 0.316 ×〖Re〗<sup>(2.5)</sup>"
+        "a": "f= 0.316 × Re<sup>(-0.25)</sup>",
+        "b": "f= 0.316 × Re<sup>(0.25)</sup>",
+        "c": "f= 0.316 × Re<sup>(-2.5)</sup>",
+        "d": "f= 0.316 × Re<sup>(2.5)</sup>"
       },
       "explanations": {
         "a": "The correct answer is:- f= 0.316 ×〖Re〗<sup>(-0.25)</sup>. The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes, where the Reynolds number ranges from 4000 to about 100,000. It shows the friction factor decreases with an increase in the Reynolds number.",
