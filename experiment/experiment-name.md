@@ -1,2 +1,2 @@
-## Determination of Friction Coefficient of pipe at various Flow Conditions (Reynold's Number)
+## Determination of Reynold’s Number at various Flow Conditions
 
