@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2) If flow velocity is doubled, then frictional headloss becomes:",
+      "question": "2) If flow velocity is doubled, then frictional head loss becomes :",
       "answers": {
         "a": "Four times",
         "b": "half",
@@ -36,24 +36,24 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) For Laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
+      "question": "3) For Laminar flow in a pipe of uniform diameter, the relation between Darcy’s friction factor and Reynolds number is :",
       "answers": {
-        "a": "(f=Re)⁄64",
+        "a": "f=Re⁄64",
         "b": "f=Re",
-        "c": "f=64Re",
+        "c": "f=64/Re",
         "d": "f=16Re"
       },
       "explanations": {
-        "a": "The correct answer is (f=Re)/64. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
-        "b": "The correct answer is (f=Re)/64. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
-        "c": "The correct answer is (f=Re)/64. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
-        "d": "The correct answer is (f=Re)/64. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe."
+        "a": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
+        "b": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
+        "c": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
+        "d": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "4) Darcy friction factor for Laminar flow is based on:",
+      "question": "4) Darcy friction factor for Laminar flow is based on :",
       "answers": {
         "a": "Bernoulli’s Law",
         "b": "Poiseuille’s Law",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) Moody’s diagram is used to calculate _______________ in pipes:",
+      "question": "5) Moody’s diagram is used to calculate _______________ in pipes :",
       "answers": {
         "a": "Velocity",
         "b": "Pressure",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Assumptions of Poiseuille’s Law:",
+      "question": "6) Assumptions of Poiseuille’s Law :",
       "answers": {
         "a": "Incompressible fluid",
         "b": "Newtonian fluid",
