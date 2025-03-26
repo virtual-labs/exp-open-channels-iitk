@@ -38,7 +38,7 @@
     {
       "question": "3) For Laminar flow in a pipe of uniform diameter, the relation between Darcy’s friction factor and Reynolds number is :",
       "answers": {
-        "a": "f=Re⁄64",
+        "a": "f=Re/64",
         "b": "f=Re",
         "c": "f=64/Re",
         "d": "f=16Re"
