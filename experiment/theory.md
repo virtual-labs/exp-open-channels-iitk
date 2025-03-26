@@ -39,7 +39,7 @@ The flow of water, oil, air and gas in pipes is of great importance to engineers
 
 <image src="images/image3.PNG"><br><br>
 
-Flow in a pipe is divided mainly into two flow regimes i.e. Laminar and Turbulent flow. The regimes are estimated on the bases of a dimensionless parameter “Reynolds number”. Reynolds number was named after Osborne Reynolds who demonstrated the occurrence of two regimes of flow in a pipe in the year 1883.  Reynolds number is defined as :<br>
+Flow in a pipe is divided mainly into two flow regimes i.e. Laminar and Turbulent flow. The regimes are estimated on the Based on of a dimensionless parameter called the Reynolds number. Reynolds number was named after Osborne Reynolds who demonstrated the occurrence of two regimes of flow in a pipe in the year 1883.  Reynolds number is defined as :<br>
 
 <image src="images/image4.PNG"><br><br>
 
