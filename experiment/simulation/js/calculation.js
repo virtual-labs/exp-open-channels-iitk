@@ -23,7 +23,7 @@ var t12=document.getElementById("t12");
 
 function checkYourResult(){
 
-        if(t1.querySelector("input").value=="" || t2.querySelector("input").value=="" || t3.querySelector("input").value=="" || t4.querySelector("input").value=="" || t5.querySelector("input").value=="" || t6.querySelector("input").value=="" || t7.querySelector("input").value=="" || t8.querySelector("input").value=="" || t9.querySelector("input").value=="" || t10.querySelector("input").value=="" || t11.querySelector("input").value=="" || t12.querySelector("input").value=="" ){
+        if(t1.querySelector("input").value=="" || t3.querySelector("input").value=="" || t5.querySelector("input").value=="" || t6.querySelector("input").value=="" || t7.querySelector("input").value=="" || t8.querySelector("input").value=="" || t9.querySelector("input").value=="" || t10.querySelector("input").value=="" || t11.querySelector("input").value=="" || t12.querySelector("input").value=="" ){
             alert("Please Fill all input fields or Enter valid values in all input fields.");
         }else{
             let flag=true
@@ -47,76 +47,52 @@ function checkYourResult(){
         //     flag=false
         // }
         
-        if(t5.querySelector("input").value >1.67
-  && t5.querySelector("input").value<1.71  ){
-    t5.querySelector("input").style.color = "black"
-    flag= true
-}else{
-    t5.querySelector("input").style.color = "red"
-    flag= false
-}
+        if(t5.querySelector("input").value!=0.000017){
+          t5.querySelector("input").style.color = "red"
+          flag= false
+        }
         
 
-if(t6.querySelector("input").value >0.083
-&& t6.querySelector("input").value<0.085  ){
-  t6.querySelector("input").style.color = "black"
-  flag= true
-}else{
+if(t6.querySelector("input").value!=0.084192){
   t6.querySelector("input").style.color = "red"
   flag= false
 }
        
 
-if(t7.querySelector("input").value >1.33
-&& t7.querySelector("input").value<1.35  ){
-  t7.querySelector("input").style.color = "black"
-  flag= true
-}else{
+if(t7.querySelector("input").value!=1339.039488){
   t7.querySelector("input").style.color = "red"
   flag= false
 }
         
-        if(t8.querySelector("input").value!="laminar" || t8.querySelector("input").value!="Laminar"){
+        if(t8.querySelector("input").value!="Laminar"){
             t8.querySelector("input").style.color="red"
             flag=false
         }
         
-        if(t9.querySelector("input").value >8.38
-        && t9.querySelector("input").value<8.55  ){
-          t9.querySelector("input").style.color = "black"
-          flag= true
-        }else{
+        if(t9.querySelector("input").value!=0.000085){
           t9.querySelector("input").style.color = "red"
           flag= false
         }
 
-        if(t10.querySelector("input").value >0.41
-        && t10.querySelector("input").value<0.43  ){
-          t10.querySelector("input").style.color = "black"
-          flag= true
-        }else{
+        if(t10.querySelector("input").value!=0.421436){
           t10.querySelector("input").style.color = "red"
           flag= false
         }      
         
-        if(t11.querySelector("input").value >6.63
-        && t11.querySelector("input").value<6.77  ){
-          t11.querySelector("input").style.color = "black"
-          flag= true
-        }else{
+        if(t11.querySelector("input").value!=6702.762634){
           t11.querySelector("input").style.color = "red"
           flag= false
         }           
 
-        if(t12.querySelector("input").value!="turbulent" || t12.querySelector("input").value!="Turbulent"){
+        if(t12.querySelector("input").value!="Turbulent"){
             t12.querySelector("input").style.color="red"
             flag=false
         }
 
-        if(t12.querySelector("input").value!="turbulent" || t12.querySelector("input").value!="Turbulent"){
-            t12.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t12.querySelector("input").value!="turbulent" || t12.querySelector("input").value!="Turbulent"){
+        //     t12.querySelector("input").style.color="red"
+        //     flag=false
+        // }
         if(flag){
         
             for (let i = 0; i < 5; i++) {
@@ -168,6 +144,7 @@ function exportToExcel() {
       });
       calculationSheetData.push(rowData);
   });
+  console.log(calculationSheetData, 'sdaklsdjas')
   var calculationSheet = XLSX.utils.aoa_to_sheet(calculationSheetData);
   XLSX.utils.book_append_sheet(wb, calculationSheet, "Calculation Table");
 
