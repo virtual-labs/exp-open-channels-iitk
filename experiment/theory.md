@@ -60,7 +60,7 @@ Furthermore, for a circular pipe with a fully developed flow, the head loss due 
 Where, <br>
 
 f = is known as the Darcy-Weisbach pipe<br>
-L = Length of the pipe between two tapings in m <br>
+L = Length of the pipe between two tappings in m <br>
 V = mean velocity of the flow in m/s<br>
 D = is the internal diameter of the pipe in m<br>
 g = is the acceleration due to gravity in m/s<sup>2</sup><br><br>
