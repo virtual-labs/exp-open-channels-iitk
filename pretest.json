@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) Friction Factor _____________when the flow becomes fully turbulent.",
+      "answers": {
+        "a": "Becomes zero",
+        "b": "Attains maximum value",
+        "c": "Attains minimum value",
+        "d": "Attains negative value"
+      },
+      "explanations": {
+        "a": "The correct answer is attains maximum value. In turbulent flow, the friction factor tends to a relatively constant value, especially in rough pipes, due to the chaotic nature of the flow that increases resistance. Unlike in laminar flow where the friction factor decreases with increasing Reynolds number, turbulent flow maintains a high friction factor because the energy losses due to friction are significantly higher.",
+        "b": "The correct answer is attains maximum value. In turbulent flow, the friction factor tends to a relatively constant value, especially in rough pipes, due to the chaotic nature of the flow that increases resistance. Unlike in laminar flow where the friction factor decreases with increasing Reynolds number, turbulent flow maintains a high friction factor because the energy losses due to friction are significantly higher.",
+        "c": "The correct answer is attains maximum value. In turbulent flow, the friction factor tends to a relatively constant value, especially in rough pipes, due to the chaotic nature of the flow that increases resistance. Unlike in laminar flow where the friction factor decreases with increasing Reynolds number, turbulent flow maintains a high friction factor because the energy losses due to friction are significantly higher.",
+        "d": "The correct answer is attains maximum value. In turbulent flow, the friction factor tends to a relatively constant value, especially in rough pipes, due to the chaotic nature of the flow that increases resistance. Unlike in laminar flow where the friction factor decreases with increasing Reynolds number, turbulent flow maintains a high friction factor because the energy losses due to friction are significantly higher."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) If flow velocity is doubled, then frictional head loss becomes :",
+      "answers": {
+        "a": "Four times",
+        "b": "half",
+        "c": "twice",
+        "d": "Remains constant"
+      },
+      "explanations": {
+        "a": "The correct answer is four times. According to the Darcy-Weisbach equation, frictional head loss (h_f) in a pipe is proportional to the square of the flow velocity (ν). Thus, if the velocity doubles, the frictional head loss increases by a factor of four ((h_f∝ ν2).",
+        "b": "The correct answer is four times. According to the Darcy-Weisbach equation, frictional head loss (h_f) in a pipe is proportional to the square of the flow velocity (ν). Thus, if the velocity doubles, the frictional head loss increases by a factor of four ((h_f∝ ν2).",
+        "c": "The correct answer is four times. According to the Darcy-Weisbach equation, frictional head loss (h_f) in a pipe is proportional to the square of the flow velocity (ν). Thus, if the velocity doubles, the frictional head loss increases by a factor of four ((h_f∝ ν2).",
+        "d": "The correct answer is four times. According to the Darcy-Weisbach equation, frictional head loss (h_f) in a pipe is proportional to the square of the flow velocity (ν). Thus, if the velocity doubles, the frictional head loss increases by a factor of four ((h_f∝ ν2)."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) For Laminar flow in a pipe of uniform diameter, the relation between Darcy’s friction factor and Reynolds number is :",
+      "answers": {
+        "a": "f=Re/64",
+        "b": "f=Re",
+        "c": "f=64/Re",
+        "d": "f=16Re"
+      },
+      "explanations": {
+        "a": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
+        "b": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
+        "c": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe.",
+        "d": "The correct answer is f=64/Re. For laminar flow, the Darcy-Weisbach friction factor (f) is inversely proportional to the Reynolds number (Re) and is given by the relation f=64/Re. This relationship is derived from the Hagen-Poiseuille equation which describes laminar flow in a circular pipe."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) Darcy friction factor for Laminar flow is based on :",
+      "answers": {
+        "a": "Bernoulli’s Law",
+        "b": "Poiseuille’s Law",
+        "c": "Euler’s Law",
+        "d": "Newton’s Law"
+      },
+      "explanations": {
+        "a": "The correct answer is Poiseuille’s Law. Poiseuille's Law describes the volumetric flow rate of an incompressible and Newtonian fluid through a cylindrical pipe. It provides the basis for the relationship between the friction factor and the Reynolds number in laminar flow.",
+        "b": "The correct answer is Poiseuille’s Law. Poiseuille's Law describes the volumetric flow rate of an incompressible and Newtonian fluid through a cylindrical pipe. It provides the basis for the relationship between the friction factor and the Reynolds number in laminar flow.",
+        "c": "The correct answer is Poiseuille’s Law. Poiseuille's Law describes the volumetric flow rate of an incompressible and Newtonian fluid through a cylindrical pipe. It provides the basis for the relationship between the friction factor and the Reynolds number in laminar flow.",
+        "d": "The correct answer is Poiseuille’s Law. Poiseuille's Law describes the volumetric flow rate of an incompressible and Newtonian fluid through a cylindrical pipe. It provides the basis for the relationship between the friction factor and the Reynolds number in laminar flow."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) Moody’s diagram is used to calculate _______________ in pipes :",
+      "answers": {
+        "a": "Velocity",
+        "b": "Pressure",
+        "c": "Friction factor",
+        "d": "Temperature"
+      },
+      "explanations": {
+        "a": "The correct answer is friction factor. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes",
+        "b": "The correct answer is friction factor. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes",
+        "c": "The correct answer is friction factor. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes",
+        "d": "The correct answer is friction factor. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6) Assumptions of Poiseuille’s Law :",
+      "answers": {
+        "a": "Incompressible fluid",
+        "b": "Newtonian fluid",
+        "c": "Laminar flow",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
+        "b": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
+        "c": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations.",
+        "d": "The correct answer is All of these. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian (meaning its viscosity remains constant regardless of the flow conditions) and that the flow is laminar. These assumptions are necessary for the derivation and application of the law in practical situations."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

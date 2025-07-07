@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) Relationship between Reynolds number (Re) and flow velocity (V) is:",
+      "answers": {
+        "a": "Re∝V",
+        "b": "Re∝1/V",
+        "c": "Re∝2V",
+        "d": "Re∝1/2V"
+      },
+      "explanations": {
+        "a": "The correct answer is Re ∝ V. The Reynolds number is directly proportional to the flow velocity. It is given by the formula Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity of the fluid.",
+        "b": "The correct answer is Re ∝ V. The Reynolds number is directly proportional to the flow velocity. It is given by the formula Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity of the fluid.",
+        "c": "The correct answer is Re ∝ V. The Reynolds number is directly proportional to the flow velocity. It is given by the formula Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity of the fluid.",
+        "d": "The correct answer is Re ∝ V. The Reynolds number is directly proportional to the flow velocity. It is given by the formula Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity of the fluid."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) Blasius equation is the following:",
+      "answers": {
+        "a": "f= 0.316 × Re<sup>(-0.25)</sup>",
+        "b": "f= 0.316 × Re<sup>(0.25)</sup>",
+        "c": "f= 0.316 × Re<sup>(-2.5)</sup>",
+        "d": "f= 0.316 × Re<sup>(2.5)</sup>"
+      },
+      "explanations": {
+        "a": "The correct answer is:- f= 0.316 ×〖Re〗<sup>(-0.25)</sup>. The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes, where the Reynolds number ranges from 4000 to about 100,000. It shows the friction factor decreases with an increase in the Reynolds number.",
+        "b": "The correct answer is:- f= 0.316 ×〖Re〗<sup>(-0.25)</sup>. The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes, where the Reynolds number ranges from 4000 to about 100,000. It shows the friction factor decreases with an increase in the Reynolds number.",
+        "c": "The correct answer is:- f= 0.316 ×〖Re〗<sup>(-0.25)</sup>. The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes, where the Reynolds number ranges from 4000 to about 100,000. It shows the friction factor decreases with an increase in the Reynolds number.",
+        "d": "The correct answer is:- f= 0.316 ×〖Re〗<sup>(-0.25)</sup>. The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes, where the Reynolds number ranges from 4000 to about 100,000. It shows the friction factor decreases with an increase in the Reynolds number."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) Blasius equation is valid only _________ flow of pressure head, velocity head and datum head.",
+      "answers": {
+        "a": "Laminar flow",
+        "b": "Turbulent flow",
+        "c": "Transitional flow",
+        "d": "Hypersonic flow"
+      },
+      "explanations": {
+        "a": "The correct answer is turbulent flow. The Blasius equation specifically applies to turbulent flow in smooth pipes and is not valid for laminar or transitional flows.",
+        "b": "The correct answer is turbulent flow. The Blasius equation specifically applies to turbulent flow in smooth pipes and is not valid for laminar or transitional flows.",
+        "c": "The correct answer is turbulent flow. The Blasius equation specifically applies to turbulent flow in smooth pipes and is not valid for laminar or transitional flows.",
+        "d": "The correct answer is turbulent flow. The Blasius equation specifically applies to turbulent flow in smooth pipes and is not valid for laminar or transitional flows."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) Flow is Laminar for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 2300",
+        "b": "Re < 2300",
+        "c": "Re < 5000",
+        "d": "Re > 5000"
+      },
+      "explanations": {
+        "a": "The correct answer is Re < 2300. Flow is considered laminar when the Reynolds number is less than 2300. In laminar flow, the fluid flows in parallel layers with minimal mixing and disturbance between them.",
+        "b": "The correct answer is Re < 2300. Flow is considered laminar when the Reynolds number is less than 2300. In laminar flow, the fluid flows in parallel layers with minimal mixing and disturbance between them.",
+        "c": "The correct answer is Re < 2300. Flow is considered laminar when the Reynolds number is less than 2300. In laminar flow, the fluid flows in parallel layers with minimal mixing and disturbance between them.",
+        "d": "The correct answer is Re < 2300. Flow is considered laminar when the Reynolds number is less than 2300. In laminar flow, the fluid flows in parallel layers with minimal mixing and disturbance between them."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) The Flow is Turbulent for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 4000",
+        "b": "Re < 4000",
+        "c": "Re < 2000",
+        "d": "Re > 2000"
+      },
+      "explanations": {
+        "a": "The correct answer is Re > 4000. Flow is considered turbulent when the Reynolds number exceeds 4000. In turbulent flow, the fluid experiences chaotic changes in pressure and velocity, leading to increased friction and energy losses.",
+        "b": "The correct answer is Re > 4000. Flow is considered turbulent when the Reynolds number exceeds 4000. In turbulent flow, the fluid experiences chaotic changes in pressure and velocity, leading to increased friction and energy losses.",
+        "c": "The correct answer is Re > 4000. Flow is considered turbulent when the Reynolds number exceeds 4000. In turbulent flow, the fluid experiences chaotic changes in pressure and velocity, leading to increased friction and energy losses.",
+        "d": "The correct answer is Re > 4000. Flow is considered turbulent when the Reynolds number exceeds 4000. In turbulent flow, the fluid experiences chaotic changes in pressure and velocity, leading to increased friction and energy losses."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
