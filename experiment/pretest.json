@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) Friction Factor <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> when the flow becomes fully turbulent.",
+      "question": "“1.” Friction Factor <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> when the flow becomes fully turbulent.",
       "answers": {
         "a": "becomes zero",
         "b": "attains maximum value",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2) If flow velocity is doubled, then frictional head loss becomes:",
+      "question": "“2.” If flow velocity is doubled, then frictional head loss becomes:",
       "answers": {
         "a": "Four times",
         "b": "Half",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) For Laminar flow in a pipe of uniform diameter, the relation between Darcy’s friction factor and Reynolds number is :",
+      "question": "“3.” For Laminar flow in a pipe of uniform diameter, the relation between Darcy’s friction factor and Reynolds number is:",
       "answers": {
         "a": "f = Re/64",
         "b": "f = Re",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4) Darcy friction factor for Laminar flow is based on :",
+      "question": "“4.” Darcy friction factor for Laminar flow is based on:",
       "answers": {
         "a": "Bernoulli’s Law",
         "b": "Poiseuille’s Law",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) Moody’s diagram is used to calculate <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> in pipes :",
+      "question": "“5.” Moody’s diagram is used to calculate <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> in pipes :",
       "answers": {
         "a": "velocity",
         "b": "pressure",
@@ -78,16 +78,16 @@
         "d": "temperature"
       },
       "explanations": {
-        "a": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes",
-        "b": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes",
-        "c": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes",
-        "d": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes"
+        "a": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes.",
+        "b": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes.",
+        "c": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes.",
+        "d": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation that relates the Reynolds number, relative roughness of a pipe, and the friction factor. It is used to determine the friction factor for both laminar and turbulent flow regimes."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "6) Assumptions of Poiseuille’s Law is/are:",
+      "question": "“6.” Assumptions of Poiseuille’s Law is/are:",
       "answers": {
         "a": "Incompressible fluid",
         "b": "Newtonian fluid",
