@@ -1,0 +1,27 @@
+
+/home/runner/work/exp-open-channels-iitk/exp-open-channels-iitk/experiment/simulation/js/calculation.js
+    2:5   warning  't2' is assigned a value but never used      no-unused-vars
+    4:5   warning  't4' is assigned a value but never used      no-unused-vars
+   24:10  warning  'checkYourResult' is defined but never used  no-unused-vars
+  100:17  warning  'confetti' is not defined                    no-undef
+  111:10  warning  'exportToExcel' is defined but never used    no-unused-vars
+  112:12  warning  'XLSX' is not defined                        no-undef
+  129:26  warning  'XLSX' is not defined                        no-undef
+  130:3   warning  'XLSX' is not defined                        no-undef
+  148:26  warning  'XLSX' is not defined                        no-undef
+  149:3   warning  'XLSX' is not defined                        no-undef
+  152:3   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-open-channels-iitk/exp-open-channels-iitk/experiment/simulation/js/main.js
+    9:5   warning  'svg' is assigned a value but never used            no-unused-vars
+   11:5   warning  'manometerText' is assigned a value but never used  no-unused-vars
+   36:5   warning  'svgContainer1' is assigned a value but never used  no-unused-vars
+   40:10  warning  'power' is defined but never used                   no-unused-vars
+   89:16  warning  'timeoutId4' is not defined                         no-undef
+  187:7   warning  'timeoutId4' is not defined                         no-undef
+  194:20  warning  'timeoutId4' is not defined                         no-undef
+  442:5   warning  'w5' is not defined                                 no-undef
+  468:10  warning  'purzeAction' is defined but never used             no-unused-vars
+
+✖ 20 problems (0 errors, 20 warnings)
+
