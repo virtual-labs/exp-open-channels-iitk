@@ -1,2 +1,2 @@
-## Determination of Reynold’s Number at various Flow Conditions
+## Determination of Reynolds Number at various Flow Conditions
 
