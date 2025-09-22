@@ -45,11 +45,11 @@ Flow in a pipe is divided mainly into two flow regimes i.e. Laminar and Turbulen
 
 When Re is large, the inertial forces are dominant relative to the viscous forces. Henceforth the viscous forces cannot prevent the random and rapid fluctuations of the fluid i.e. flow becomes Turbulent. At lower Re, the viscous forces are dominant enough to suppress these fluctuations and to keep the fluid “in line”, hence flow remains Laminar.<br>
 
-The Re at which the flow becomes turbulent is called the critical Reynolds number, Re<sub>cr</sub> . The value of the critical Reynolds number is different for different geometries and flow conditions. For internal flow in a circular pipe, a value of approximately 2300 is often used as the approximate critical Reynolds number for the start of the transition to turbulence, while flows with a Reynolds number of 4000 or higher are considered fully turbulent.<br>
+The Re at which the flow becomes turbulent is called the critical Reynolds number, Re<sub>cr</sub>. The value of the critical Reynolds number is different for different geometries and flow conditions. For internal flow in a circular pipe, a value of approximately 2300 is often used as the approximate critical Reynolds number for the start of the transition to turbulence, while flows with a Reynolds number of 4000 or higher are considered fully turbulent.<br>
 
 <image src="images/image5.PNG"><br>
 
-Theoretically it would be nice to have exact values of Reynolds number to define flow regimes for laminar, transitional and turbulent flows but it’s not the case in reality. It is observed that the transition of flow from laminar to turbulent flow depends on many factors i.e. the degree of disturbance of the flow by surface roughness pipe vibrations and fluctuations in the flow. the flow regimes in a circular pipe are taken as:<br>
+Theoretically it would be nice to have exact values of Reynolds number to define flow regimes for laminar, transitional and turbulent flows but it’s not the case in reality. It is observed that the transition of flow from laminar to turbulent flow depends on many factors i.e. the degree of disturbance of the flow by surface roughness pipe vibrations and fluctuations in the flow. The flow regimes in a circular pipe are taken as:<br>
 
 <image src="images/image6.PNG"><br>
 
