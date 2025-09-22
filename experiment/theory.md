@@ -45,7 +45,7 @@ Flow in a pipe is divided mainly into two flow regimes i.e. Laminar and Turbulen
 
 When Re is large, the inertial forces are dominant relative to the viscous forces. Henceforth the viscous forces cannot prevent the random and rapid fluctuations of the fluid i.e. flow becomes Turbulent. At lower Re, the viscous forces are dominant enough to suppress these fluctuations and to keep the fluid “in line”, hence flow remains Laminar.<br>
 
-The Re at which the flow becomes turbulent is called the critical Reynolds number, Recr . The value of the critical Reynolds number is different for different geometries and flow conditions. For internal flow in a circular pipe, a value of approximately 2300 is often used as the approximate critical Reynolds number for the start of the transition to turbulence, while flows with a Reynolds number of 4000 or higher are considered fully turbulent.<br>
+The Re at which the flow becomes turbulent is called the critical Reynolds number, Re<sub>cr</sub> . The value of the critical Reynolds number is different for different geometries and flow conditions. For internal flow in a circular pipe, a value of approximately 2300 is often used as the approximate critical Reynolds number for the start of the transition to turbulence, while flows with a Reynolds number of 4000 or higher are considered fully turbulent.<br>
 
 <image src="images/image5.PNG"><br>
 
